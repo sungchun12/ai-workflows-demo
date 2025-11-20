@@ -1,0 +1,7 @@
+[project]
+name = "ai-workflows-demo"
+version = "0.1.0"
+description = "Walk through various approaches to building AI workflows from simple prompt to deterministic workflows."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
