@@ -4,4 +4,9 @@ version = "0.1.0"
 description = "Walk through various approaches to building AI workflows from simple prompt to deterministic workflows."
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "prefect>=3.6.3",
+    "pydantic-ai>=1.20.0",
+    "pydantic-evals>=1.20.0",
+    "ruff>=0.14.5",
+]

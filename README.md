@@ -28,6 +28,8 @@ Ultimately, this exploration is intended to answer these questions:
 - crowdsourced prompt snippets 
 - cursor
 - git
+- uv
+- ruff
 
 ### Constraints
 - Open source only tools
